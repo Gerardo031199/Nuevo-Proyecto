@@ -1,0 +1,69 @@
+{
+    "Amazon": [
+        [
+            {
+                "CLOUD": [
+                    "Amazon CloudSearch",
+                    "Seguridad en la Nube",
+                    "Amazon Elasticsearch Service"
+                ],
+                "RED LAN": [
+                    "AWS Outposts",
+                    "Amazon EC2 ",
+                    "Firewall ",
+                    "VPN IPsec"
+                ],
+                "SOC": [
+                    " AWS Artifact",
+                    "Amazon DocumentDB",
+                    "AWS IoT Core",
+                    "AWS DataSync"
+                ]
+            }
+        ]
+    ],
+    "Cisco": [
+        [
+            {
+                "CLOUD": [
+                    "Nube de ACI",
+                    "CSR 1000v",
+                    "Cloudlock",
+                    "AppDynamics,"
+                ],
+                "RED LAN": [
+                    "Firewall",
+                    "Switches de acceso de clientes",
+                    "Routers WAN",
+                    "Controlador de LAN inalambrico"
+                ],
+                "SOC": [
+                    "Identity Services Engine",
+                    "Firewalls Firepower",
+                    "Stealthwatch"
+                ]
+            }
+        ]
+    ],
+    "Palo Alto Networks": [
+        [
+            {
+                "CLOUD": [
+                    "Soluciones SD-WAN",
+                    "Seguridad en la Nube",
+                    "Servicios de Acceso Seguro"
+                ],
+                "RED LAN": [
+                    "Firewall NG",
+                    "IPS",
+                    "Cliente de Seguridad Movil"
+                ],
+                "SOC": [
+                    "Corteza XDR",
+                    "WildFire",
+                    "Recopilacion de datos de seguridad"
+                ]
+            }
+        ]
+    ]
+}
